@@ -1,4 +1,4 @@
-file = open("asd.txt", "r")
+file = open("C:/Users/edgar/Documents/python/AdventOfCode22/Day_1/elfes_data.txt", "r")
 
 lista = [0] * 3
 cal = 0
